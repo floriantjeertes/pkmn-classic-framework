@@ -66,3 +66,6 @@ which this project depends on for basic Nintendo WiFi fuctionality.
 sprites and Generation 3 item/text conversion tables.
 * [kaphotics](https://twitter.com/kaphotics) for the Pokémon mini sprite rips
 from ORAS.
+
+
+dit  is een test :3
